@@ -1,0 +1,14 @@
+{
+  "name": "auctions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "santraez",
+  "type": "module",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "dotenv": "^16.3.1"
+  }
+}
